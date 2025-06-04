@@ -1,15 +1,3 @@
-GIT
-  remote: https://github.com/mmistakes/minimal-mistakes.git
-  revision: a59342a0684b13407d72944fd5f3ea76036553fd
-  specs:
-    minimal-mistakes-jekyll (4.27.1)
-      jekyll (>= 3.7, < 5.0)
-      jekyll-feed (~> 0.1)
-      jekyll-gist (~> 1.5)
-      jekyll-include-cache (~> 0.1)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.3)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -280,7 +268,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  minimal-mistakes-jekyll!
+  jekyll-remote-theme
 
 BUNDLED WITH
    2.3.8
